@@ -1,0 +1,9 @@
+mail
+ftp
+admin
+local
+locaolhost
+images
+drive
+blog
+support
